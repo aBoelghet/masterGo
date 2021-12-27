@@ -9,21 +9,51 @@
 /* Begin PBXBuildFile section */
 		48FB98E7277A0B220053CD32 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48FB98E6277A0B220053CD32 /* AppDelegate.swift */; };
 		48FB98E9277A0B220053CD32 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48FB98E8277A0B220053CD32 /* SceneDelegate.swift */; };
-		48FB98EB277A0B220053CD32 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48FB98EA277A0B220053CD32 /* ViewController.swift */; };
-		48FB98EE277A0B220053CD32 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 48FB98EC277A0B220053CD32 /* Main.storyboard */; };
+		48FB98EB277A0B220053CD32 /* IntroContentViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48FB98EA277A0B220053CD32 /* IntroContentViewController.swift */; };
+		48FB98EE277A0B220053CD32 /* Intro.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 48FB98EC277A0B220053CD32 /* Intro.storyboard */; };
 		48FB98F0277A0B220053CD32 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 48FB98EF277A0B220053CD32 /* Assets.xcassets */; };
 		48FB98F3277A0B220053CD32 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 48FB98F1277A0B220053CD32 /* LaunchScreen.storyboard */; };
+		48FB9905277A187A0053CD32 /* Ubuntu-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 48FB98FC277A187A0053CD32 /* Ubuntu-Medium.ttf */; };
+		48FB9906277A187A0053CD32 /* Ubuntu-LightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 48FB98FD277A187A0053CD32 /* Ubuntu-LightItalic.ttf */; };
+		48FB9907277A187A0053CD32 /* Ubuntu-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 48FB98FE277A187A0053CD32 /* Ubuntu-Regular.ttf */; };
+		48FB9908277A187A0053CD32 /* Ubuntu-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 48FB98FF277A187A0053CD32 /* Ubuntu-Bold.ttf */; };
+		48FB9909277A187A0053CD32 /* Ubuntu-MediumItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 48FB9900277A187A0053CD32 /* Ubuntu-MediumItalic.ttf */; };
+		48FB990A277A187A0053CD32 /* Ubuntu-BoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 48FB9901277A187A0053CD32 /* Ubuntu-BoldItalic.ttf */; };
+		48FB990B277A187A0053CD32 /* Ubuntu-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 48FB9902277A187A0053CD32 /* Ubuntu-Italic.ttf */; };
+		48FB990C277A187A0053CD32 /* Ubuntu-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 48FB9903277A187A0053CD32 /* Ubuntu-Light.ttf */; };
+		48FB990D277A187A0053CD32 /* UFL.txt in Resources */ = {isa = PBXBuildFile; fileRef = 48FB9904277A187A0053CD32 /* UFL.txt */; };
+		48FB9913277A1C070053CD32 /* Radomir Tinkov Free Font EULA .pdf in Resources */ = {isa = PBXBuildFile; fileRef = 48FB9910277A1C070053CD32 /* Radomir Tinkov Free Font EULA .pdf */; };
+		48FB9914277A1C070053CD32 /* Gilroy-Light.otf in Resources */ = {isa = PBXBuildFile; fileRef = 48FB9911277A1C070053CD32 /* Gilroy-Light.otf */; };
+		48FB9915277A1C070053CD32 /* Gilroy-ExtraBold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 48FB9912277A1C070053CD32 /* Gilroy-ExtraBold.otf */; };
+		48FB9919277A250F0053CD32 /* IntroPageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48FB9918277A250F0053CD32 /* IntroPageViewController.swift */; };
+		9BC07982FA28B41ABC9FD391 /* Pods_MasterGo.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D4D500D2ACF2B6133F8C637A /* Pods_MasterGo.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		48FB98E3277A0B220053CD32 /* MasterGo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MasterGo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		48FB98E6277A0B220053CD32 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		48FB98E8277A0B220053CD32 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		48FB98EA277A0B220053CD32 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		48FB98ED277A0B220053CD32 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		48FB98EA277A0B220053CD32 /* IntroContentViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IntroContentViewController.swift; sourceTree = "<group>"; };
+		48FB98ED277A0B220053CD32 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Intro.storyboard; sourceTree = "<group>"; };
 		48FB98EF277A0B220053CD32 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		48FB98F2277A0B220053CD32 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		48FB98F4277A0B220053CD32 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		48FB98FC277A187A0053CD32 /* Ubuntu-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Ubuntu-Medium.ttf"; sourceTree = "<group>"; };
+		48FB98FD277A187A0053CD32 /* Ubuntu-LightItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Ubuntu-LightItalic.ttf"; sourceTree = "<group>"; };
+		48FB98FE277A187A0053CD32 /* Ubuntu-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Ubuntu-Regular.ttf"; sourceTree = "<group>"; };
+		48FB98FF277A187A0053CD32 /* Ubuntu-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Ubuntu-Bold.ttf"; sourceTree = "<group>"; };
+		48FB9900277A187A0053CD32 /* Ubuntu-MediumItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Ubuntu-MediumItalic.ttf"; sourceTree = "<group>"; };
+		48FB9901277A187A0053CD32 /* Ubuntu-BoldItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Ubuntu-BoldItalic.ttf"; sourceTree = "<group>"; };
+		48FB9902277A187A0053CD32 /* Ubuntu-Italic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Ubuntu-Italic.ttf"; sourceTree = "<group>"; };
+		48FB9903277A187A0053CD32 /* Ubuntu-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Ubuntu-Light.ttf"; sourceTree = "<group>"; };
+		48FB9904277A187A0053CD32 /* UFL.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = UFL.txt; sourceTree = "<group>"; };
+		48FB9910277A1C070053CD32 /* Radomir Tinkov Free Font EULA .pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Radomir Tinkov Free Font EULA .pdf"; sourceTree = "<group>"; };
+		48FB9911277A1C070053CD32 /* Gilroy-Light.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Gilroy-Light.otf"; sourceTree = "<group>"; };
+		48FB9912277A1C070053CD32 /* Gilroy-ExtraBold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Gilroy-ExtraBold.otf"; sourceTree = "<group>"; };
+		48FB9918277A250F0053CD32 /* IntroPageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IntroPageViewController.swift; sourceTree = "<group>"; };
+		91CE7614595332E634732259 /* Pods-MasterGo.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MasterGo.release.xcconfig"; path = "Target Support Files/Pods-MasterGo/Pods-MasterGo.release.xcconfig"; sourceTree = "<group>"; };
+		B98093ACD53869CF06C4588C /* Pods-MasterGo.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MasterGo.debug.xcconfig"; path = "Target Support Files/Pods-MasterGo/Pods-MasterGo.debug.xcconfig"; sourceTree = "<group>"; };
+		D4D500D2ACF2B6133F8C637A /* Pods_MasterGo.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MasterGo.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -31,17 +61,28 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9BC07982FA28B41ABC9FD391 /* Pods_MasterGo.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		18088370D0D11548C596441D /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				D4D500D2ACF2B6133F8C637A /* Pods_MasterGo.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 		48FB98DA277A0B210053CD32 = {
 			isa = PBXGroup;
 			children = (
 				48FB98E5277A0B220053CD32 /* MasterGo */,
 				48FB98E4277A0B220053CD32 /* Products */,
+				F0B8985472F1B8B55E10B7BF /* Pods */,
+				18088370D0D11548C596441D /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -56,15 +97,69 @@
 		48FB98E5277A0B220053CD32 /* MasterGo */ = {
 			isa = PBXGroup;
 			children = (
+				48FB98FA277A18660053CD32 /* SupportFiles */,
 				48FB98E6277A0B220053CD32 /* AppDelegate.swift */,
 				48FB98E8277A0B220053CD32 /* SceneDelegate.swift */,
-				48FB98EA277A0B220053CD32 /* ViewController.swift */,
-				48FB98EC277A0B220053CD32 /* Main.storyboard */,
+				48FB98EA277A0B220053CD32 /* IntroContentViewController.swift */,
+				48FB9918277A250F0053CD32 /* IntroPageViewController.swift */,
+				48FB98EC277A0B220053CD32 /* Intro.storyboard */,
 				48FB98EF277A0B220053CD32 /* Assets.xcassets */,
 				48FB98F1277A0B220053CD32 /* LaunchScreen.storyboard */,
 				48FB98F4277A0B220053CD32 /* Info.plist */,
 			);
 			path = MasterGo;
+			sourceTree = "<group>";
+		};
+		48FB98FA277A18660053CD32 /* SupportFiles */ = {
+			isa = PBXGroup;
+			children = (
+				48FB990E277A18D00053CD32 /* Fonts */,
+			);
+			path = SupportFiles;
+			sourceTree = "<group>";
+		};
+		48FB98FB277A187A0053CD32 /* Ubuntu */ = {
+			isa = PBXGroup;
+			children = (
+				48FB98FC277A187A0053CD32 /* Ubuntu-Medium.ttf */,
+				48FB98FD277A187A0053CD32 /* Ubuntu-LightItalic.ttf */,
+				48FB98FE277A187A0053CD32 /* Ubuntu-Regular.ttf */,
+				48FB98FF277A187A0053CD32 /* Ubuntu-Bold.ttf */,
+				48FB9900277A187A0053CD32 /* Ubuntu-MediumItalic.ttf */,
+				48FB9901277A187A0053CD32 /* Ubuntu-BoldItalic.ttf */,
+				48FB9902277A187A0053CD32 /* Ubuntu-Italic.ttf */,
+				48FB9903277A187A0053CD32 /* Ubuntu-Light.ttf */,
+				48FB9904277A187A0053CD32 /* UFL.txt */,
+			);
+			path = Ubuntu;
+			sourceTree = "<group>";
+		};
+		48FB990E277A18D00053CD32 /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				48FB990F277A1C070053CD32 /* Gilroy-FREE */,
+				48FB98FB277A187A0053CD32 /* Ubuntu */,
+			);
+			path = Fonts;
+			sourceTree = "<group>";
+		};
+		48FB990F277A1C070053CD32 /* Gilroy-FREE */ = {
+			isa = PBXGroup;
+			children = (
+				48FB9910277A1C070053CD32 /* Radomir Tinkov Free Font EULA .pdf */,
+				48FB9911277A1C070053CD32 /* Gilroy-Light.otf */,
+				48FB9912277A1C070053CD32 /* Gilroy-ExtraBold.otf */,
+			);
+			path = "Gilroy-FREE";
+			sourceTree = "<group>";
+		};
+		F0B8985472F1B8B55E10B7BF /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				B98093ACD53869CF06C4588C /* Pods-MasterGo.debug.xcconfig */,
+				91CE7614595332E634732259 /* Pods-MasterGo.release.xcconfig */,
+			);
+			path = Pods;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -74,9 +169,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 48FB98F7277A0B220053CD32 /* Build configuration list for PBXNativeTarget "MasterGo" */;
 			buildPhases = (
+				DAF35D4B09E6812EF4960C9D /* [CP] Check Pods Manifest.lock */,
 				48FB98DF277A0B220053CD32 /* Sources */,
 				48FB98E0277A0B220053CD32 /* Frameworks */,
 				48FB98E1277A0B220053CD32 /* Resources */,
+				13D267AC73ADADB14DE4FF57 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -125,21 +222,76 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				48FB990D277A187A0053CD32 /* UFL.txt in Resources */,
+				48FB9907277A187A0053CD32 /* Ubuntu-Regular.ttf in Resources */,
+				48FB9915277A1C070053CD32 /* Gilroy-ExtraBold.otf in Resources */,
+				48FB9906277A187A0053CD32 /* Ubuntu-LightItalic.ttf in Resources */,
+				48FB9913277A1C070053CD32 /* Radomir Tinkov Free Font EULA .pdf in Resources */,
+				48FB990A277A187A0053CD32 /* Ubuntu-BoldItalic.ttf in Resources */,
+				48FB990B277A187A0053CD32 /* Ubuntu-Italic.ttf in Resources */,
+				48FB990C277A187A0053CD32 /* Ubuntu-Light.ttf in Resources */,
+				48FB9909277A187A0053CD32 /* Ubuntu-MediumItalic.ttf in Resources */,
+				48FB9914277A1C070053CD32 /* Gilroy-Light.otf in Resources */,
 				48FB98F3277A0B220053CD32 /* LaunchScreen.storyboard in Resources */,
 				48FB98F0277A0B220053CD32 /* Assets.xcassets in Resources */,
-				48FB98EE277A0B220053CD32 /* Main.storyboard in Resources */,
+				48FB9908277A187A0053CD32 /* Ubuntu-Bold.ttf in Resources */,
+				48FB9905277A187A0053CD32 /* Ubuntu-Medium.ttf in Resources */,
+				48FB98EE277A0B220053CD32 /* Intro.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		13D267AC73ADADB14DE4FF57 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-MasterGo/Pods-MasterGo-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-MasterGo/Pods-MasterGo-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-MasterGo/Pods-MasterGo-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		DAF35D4B09E6812EF4960C9D /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-MasterGo-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		48FB98DF277A0B220053CD32 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				48FB98EB277A0B220053CD32 /* ViewController.swift in Sources */,
+				48FB98EB277A0B220053CD32 /* IntroContentViewController.swift in Sources */,
 				48FB98E7277A0B220053CD32 /* AppDelegate.swift in Sources */,
+				48FB9919277A250F0053CD32 /* IntroPageViewController.swift in Sources */,
 				48FB98E9277A0B220053CD32 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -147,12 +299,12 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		48FB98EC277A0B220053CD32 /* Main.storyboard */ = {
+		48FB98EC277A0B220053CD32 /* Intro.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
 				48FB98ED277A0B220053CD32 /* Base */,
 			);
-			name = Main.storyboard;
+			name = Intro.storyboard;
 			sourceTree = "<group>";
 		};
 		48FB98F1277A0B220053CD32 /* LaunchScreen.storyboard */ = {
@@ -284,6 +436,7 @@
 		};
 		48FB98F8277A0B220053CD32 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = B98093ACD53869CF06C4588C /* Pods-MasterGo.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
@@ -294,7 +447,7 @@
 				INFOPLIST_FILE = MasterGo/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
-				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UIMainStoryboardFile = Intro;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -312,6 +465,7 @@
 		};
 		48FB98F9277A0B220053CD32 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 91CE7614595332E634732259 /* Pods-MasterGo.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
@@ -322,7 +476,7 @@
 				INFOPLIST_FILE = MasterGo/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
-				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UIMainStoryboardFile = Intro;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
