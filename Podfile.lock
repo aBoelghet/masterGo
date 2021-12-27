@@ -1,0 +1,16 @@
+PODS:
+  - PageControls/PillPageControl (1.0.1)
+
+DEPENDENCIES:
+  - PageControls/PillPageControl
+
+SPEC REPOS:
+  trunk:
+    - PageControls
+
+SPEC CHECKSUMS:
+  PageControls: fc2436c93e79419521a6de5d46d84722593e2949
+
+PODFILE CHECKSUM: 828d24bfe37c837f53011c656c401fe655acf8c5
+
+COCOAPODS: 1.10.2
