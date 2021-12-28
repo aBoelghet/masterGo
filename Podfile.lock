@@ -1,16 +1,20 @@
 PODS:
   - PageControls/PillPageControl (1.0.1)
+  - TextFieldEffects (1.6.0)
 
 DEPENDENCIES:
   - PageControls/PillPageControl
+  - TextFieldEffects
 
 SPEC REPOS:
   trunk:
     - PageControls
+    - TextFieldEffects
 
 SPEC CHECKSUMS:
   PageControls: fc2436c93e79419521a6de5d46d84722593e2949
+  TextFieldEffects: 529b8aff706fb40f82c41c780c0777941a893796
 
-PODFILE CHECKSUM: 828d24bfe37c837f53011c656c401fe655acf8c5
+PODFILE CHECKSUM: 09f7bf7aad24c5bb8fa4a6fd141f6adc68533bd0
 
 COCOAPODS: 1.10.2
